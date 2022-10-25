@@ -1,48 +1,31 @@
 thead,tfoot{
     background-color: #576F72;
     color: rgb(255, 255, 255);
+    
 }
-body{
+.body{
     background-color:  rgb(250, 247, 243);
 }
-hr {
+.hr {
     border-color:#90C8AC;
     border-style: dotted none none;
     border-width: 5px;
-    height: 1px;
-    width: 90%;
+    height: 12px;
+    width: 95%;
+    margin: auto;
 }
 
 
-h1,h3 {
-    color: rgb(80, 139, 173);
+.h1,h3 {
+    color: rgb(80, 139, 173)
 }
-.roob {
-    height: 100px;
+
+
+.sp {
+    margin-left: 20px;
+
 }
-.ex {
-    height: 600px;
-    width: 600px;
-    background-color: palevioletred;
-    border: solid;
-    border-width: 20px;
-    border-top: 0px;
-    padding: auto;
-    /* overflow: hidden; */
-    margin: 10px;
-}
-.Bcloud {
-    position: absolute;
-    left: 500px;
-    
-} 
-.top-cont {
-    position: relative;
-    background-color: #76b4dd;
-    padding: 100px  ;
-}
-.top-cloud {
-    position: absolute;
-    right: 450px;
-    top: 50px;
+.sp1 {
+    margin-left: 10px;
+
 }
